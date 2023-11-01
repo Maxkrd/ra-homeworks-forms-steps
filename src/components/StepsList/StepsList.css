@@ -1,0 +1,11 @@
+.stepslist {
+text-align: left;
+border-collapse: separate;
+border-spacing: 5px;
+border: 1px solid #000;
+border-radius: 10px;
+}
+
+.stepslist-th {
+  padding: 0 65px 0 10px;
+}
